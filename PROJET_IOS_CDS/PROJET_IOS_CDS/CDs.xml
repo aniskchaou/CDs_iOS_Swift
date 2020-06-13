@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cds>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004812945/150/John_Lennon_Plastic_Ono_Band.jpg"></image>
+        <title>John Lennon/Plastic Ono Band</title>
+        <date>(1970)</date>
+        <options>
+        Sortie : 20 novembre 2001. Pop rock. 12 morceaux.        </options>
+        <author>John Lennon</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000005021725/150/Metallica.jpg"></image>
+        <title>Metallica</title>
+        <date>(1991)</date>
+        <options>rock</options>
+        <author>Metallica</author>
+    </cd>
+   <cd>
+        <image src="https://media.senscritique.com/media/000004791499/150/Electric_Ladyland.jpg"></image>
+        <title>Electric Ladyland</title>
+        <date>(1968)</date>
+          <options>pop</options>
+          <author>The Jimi Hendrix Experience</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000006224342/150/Chansons_pour_les_pieds.jpg"></image>
+        <title>Chansons pour les pieds</title>
+        <date>(2001)</date>
+        <options>Sortie : 20 novembre 2001. Pop rock. 12 morceaux.
+</options>
+        <author>Jean-Jacques Goldman</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000008593236/150/Sentimento.jpg"></image>
+        <title>Sentimento</title>
+        <date>(2002)</date>
+        <options>Sortie : 4 novembre 2002. 17 morceaux.
+</options>
+        <author>Andrea Bocelli</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000496066/150/Les_4_Saisons.jpg"></image>
+        <title>Les 4 Saisons</title>
+        <date>(2002)</date>
+        <options>Sortie : 7 octobre 2002. 12 morceaux.
+</options>
+        <author>Antonio Vivaldi</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004827689/150/Infrequentable.jpg"></image>
+        <title>Infréquentable</title>
+        <date>(2008)</date>
+        <options>Sortie : 13 octobre 2008. Pop, rock, rock folk, folk, country et pop rock. 12 morceaux.
+</options>
+        <author>Bénabar</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004797339/150/Emergency_on_Planet_Earth.jpg"></image>
+        <title>Emergency on Planet Earth</title>
+        <date>(1993)</date>
+        <options>Sortie : 14 juin 1993. Acid jazz, électronique, funk / soul et funk. 10 morceaux.
+</options>
+        <author>Jamiroquai</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000639286/150/Zenith_Made_in_Nougaro_Live.jpg"></image>
+        <title>Zenith Made in Nougaro (Live)</title>
+        <date>(1989)</date>
+        <options>Sortie : octobre 1989. 24 morceaux.
+</options>
+        <author>Claude Nougaro</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000007017258/150/Aznavour_2000.jpg"></image>
+        <title>Aznavour 2000</title>
+        <date>(2000)</date>
+        <options>pop</options>
+        <author>Charles Aznavour</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000832291/150/Noel.jpg"></image>
+        <title>Nol</title>
+        <date>(2004)</date>
+        <options>rock
+</options>
+        <author>Les Petits Chanteurs à la croix de bois</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/missing/162/150/missing.jpg"></image>
+        <title>Le Buf sur le toit / La Création du monde (Orchestre du Théâtre des Champs-Elysées)</title>
+        <date>(2005)</date>
+        <options>metal</options>
+        <author>Darius Milhaud</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004836613/150/Gorillaz.jpg"></image>
+        <title>Gorillaz</title>
+        <date>(2001)</date>
+        <options>pop</options>
+        <author>Gorillaz</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/missing/162/150/missing.jpg"></image>
+        <title>Grandes Compositores de la Musica Clasica: Vivaldi</title>
+        <date>(2010)</date>
+        <options>metal</options>
+        <author>Antonio Vivaldi</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000005025068/150/Fantaisie_militaire.jpg"></image>
+        <title>Fantaisie militaire</title>
+        <date>(1998)</date>
+        <options>metal</options>
+        <author>Alain Bashung</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000382280/150/La_traviata.jpg"></image>
+        <title>La traviata</title>
+        <date>(2005)</date>
+        <options>Sortie : 14 octobre 2005. 38 morceaux.
+</options>
+        <author>Giuseppe Verdi</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000754411/150/Murray_Perahia_plays_Bach_Concertos.jpg"></image>
+        <title>Murray Perahia plays Bach Concertos</title>
+        <date>(2003)</date>
+        <options>Sortie : 7 octobre 2003. 9 morceaux.
+</options>
+        <author>Johann Sebastian Bach</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000007829227/150/Love_Me_Please_Love_Me.jpg"></image>
+        <title>Love Me, Please Love Me</title>
+        <date>(1967)</date>
+        <options>Sortie : 1967. Pop, rock et chanson. 10 morceaux.
+</options>
+        <author>Michel Polnareff</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004841224/150/Sounds_of_Silence.jpg"></image>
+        <title>Sounds of Silence</title>
+        <date>(1966)</date>
+        <options>Sortie : 17 janvier 1966. Rock, rock folk, rock classique et folk, country. 11 morceaux.
+</options>
+        <author>Simon Garfunkel</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000979367/150/Heroes.jpg"></image>
+        <title>Heroes</title>
+        <date>(2007)</date>
+        <options>
+        Sortie : 20 novembre 2001. Pop rock. 12 morceaux.        </options>
+        <author>Antonio Vivaldi</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004797945/150/Diamonds_on_the_Inside.jpg"></image>
+        <title>Diamonds on the Inside</title>
+        <date>(2003)</date>
+        <options>Sortie : 5 mars 2003. Rock, rock folk, blues rock et reggae. 15 morceaux.
+</options>
+        <author>Ben Harper</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/missing/162/150/missing.jpg"></image>
+        <title>Beethoven: Symphonie no. 5 / Schumann: Symphonie no. 3 Rheinische</title>
+        <date>(1982)</date>
+        <options>Sortie : 1982. 9 morceaux.
+</options>
+        <author>Ludwig van Beethoven</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000010380724/150/The_Heist.jpg"></image>
+        <title>The Heist</title>
+        <date>(2012)</date>
+        <options>Sortie : 9 octobre 2012. Hip hop. 18 morceaux.
+</options>
+        <author>MacklemoreRyan Lewis</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000016409740/150/Random_Access_Memories.jpg"></image>
+        <title>Random Access Memories</title>
+        <date>(2013)</date>
+        <options>Sortie : 17 mai 2013. Electronique, funk, disco, pop et funk / soul. 13 morceaux.
+</options>
+        <author>Daft Punk</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000005490957/150/Le_Cadeau.jpg"></image>
+        <title>Le Cadeau</title>
+        <date>(2013)</date>
+        <options>
+        Sortie : 20 novembre 2001. Pop rock. 12 morceaux.        </options>
+        <author>Maxime Le Forestier</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000384802/150/La_Voix_d_un_ange.jpg"></image>
+        <title>La Voix d'un ange</title>
+        <date>(2007)</date>
+        <options>pop</options>
+        <author>Grégory Lemarchal</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000000282567/150/The_Australian_Aboriginal_Music.jpg"></image>
+        <title>The Australian Aboriginal Music</title>
+        <date>(1996)</date>
+        <options>metal</options>
+        <author></author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004957358/150/Y_M_C_A_Single.jpg"></image>
+        <title>Y.M.C.A. (Single)</title>
+        <date>(1978)</date>
+        <options>rock</options>
+        <author>Village People</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/media/000004815398/150/Thick_as_a_Brick.jpg"></image>
+        <title>Thick as a Brick</title>
+        <date>(1972)</date>
+        <options>rock
+</options>
+        <author>Jethro Tull</author>
+    </cd>
+    <cd>
+        <image src="https://media.senscritique.com/missing/162/150/missing.jpg"></image>
+        <title>Je suis un grand sentimental</title>
+        <date>(1989)</date>
+        <options>
+        Sortie : 20 novembre 2001. Pop rock. 12 morceaux.        </options>
+        <author>Herbert Léonard</author>
+    </cd>
+  
+</cds>
